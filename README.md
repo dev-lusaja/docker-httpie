@@ -22,3 +22,9 @@ search query to google
 ~~~~
 $ http https://www.google.com.pe/search q==apple
 ~~~~
+
+# HTTPie documentation
+
+~~~~
+https://github.com/clue/docker-httpie
+~~~~
